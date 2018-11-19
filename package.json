@@ -1,0 +1,9 @@
+{
+  "name": "ying-api-with-centOs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ziveso/ying-api-with-centOs",
+  "author": "DreamTeam",
+  "license": "MIT",
+  "private": false
+}
