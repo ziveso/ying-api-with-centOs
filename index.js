@@ -48,12 +48,14 @@ app.get("/log", function(req, res) {
         if (index === arr.length - 1 && line === "") {
           return;
         }
-        data += (index + " " + line + "<br/>");
+        data += index + " " + line + "<br/>";
       });
     res.send(data);
   });
 });
 
-app.listen("5555", () => {
-  console.log("server started at 5555");
+const PORT = "44112";
+
+app.listen(PORT, () => {
+  console.log("server started at " + PORT);
 });

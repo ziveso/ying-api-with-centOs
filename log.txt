@@ -10,3 +10,4 @@ POST / from ::ffff:127.0.0.1 at Monday, November 19, 2018 2:21 PM
 {
   "test": "asdb"
 }
+GET / from ::1 at Monday, November 19, 2018 2:24 PM
