@@ -11,3 +11,5662 @@ POST / from ::ffff:127.0.0.1 at Monday, November 19, 2018 2:21 PM
   "test": "asdb"
 }
 GET / from ::1 at Monday, November 19, 2018 2:24 PM
+GET / from ::ffff:158.108.138.21 at Monday, November 19, 2018 2:38 PM
+GET / from ::ffff:184.22.244.72 at Monday, November 19, 2018 3:37 PM
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:39 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:39:31.886+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "39",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732775016700f002688f030064040100",
+    "mic_hex": "b9d72dcd",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-14.750000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-14.750000",
+          "LrrESP": "-132.893097"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:39 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:39:43.146+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "41",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "2",
+    "payload_hex": "00732775016700f4026892030064040100",
+    "mic_hex": "45d25dcc",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-135.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.333333",
+    "MeanPER": "0.016667"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:39 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:39:47.342+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "42",
+    "ADRbit": "1",
+    "ACKbit": "1",
+    "MType": "2",
+    "FCntDn": "3",
+    "payload_hex": "00732775016700f3026892030064040100",
+    "mic_hex": "04a20a82",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.500000",
+          "LrrESP": "-137.560913"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.250000",
+    "MeanPER": "0.028334"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:39 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:39:53.54+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "43",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "4",
+    "payload_hex": "00732775016700f2026890030064040100",
+    "mic_hex": "3509ffca",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC5",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-137.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.200000",
+    "MeanPER": "0.036917"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:40 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:39:59.574+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "44",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "5",
+    "payload_hex": "00732774016700f0026890030064040100",
+    "mic_hex": "3bfd4bd3",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-110.000000",
+    "LrrSNR": "-17.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC10",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-110.000000",
+          "LrrSNR": "-17.750000",
+          "LrrESP": "-127.822304"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.166667",
+    "MeanPER": "0.043404"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:40 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:40:05.281+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "45",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "5",
+    "payload_hex": "00732775016700f1026890030064040100",
+    "mic_hex": "2c35015b",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC6",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-138.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.142857",
+    "MeanPER": "0.048377"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:40 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:40:09.313+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "46",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "5",
+    "payload_hex": "00732775016700f3026891030064040100",
+    "mic_hex": "21b0d0eb",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-110.000000",
+    "LrrSNR": "-17.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC10",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-110.000000",
+          "LrrSNR": "-17.000000",
+          "LrrESP": "-127.085800"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.125000",
+    "MeanPER": "0.052208"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:40 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:40:13.346+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "47",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "5",
+    "payload_hex": "00732775016700f4026892030064040100",
+    "mic_hex": "c0f55391",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-17.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-17.000000",
+          "LrrESP": "-136.085800"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.111111",
+    "MeanPER": "0.055153"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:40 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:40:21.411+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "49",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "5",
+    "payload_hex": "00732774016700f3026891030064040100",
+    "mic_hex": "b4e47ec9",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-120.000000",
+    "LrrSNR": "-16.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC10",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-120.000000",
+          "LrrSNR": "-16.750000",
+          "LrrESP": "-136.840836"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.181818",
+    "MeanPER": "0.061486"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:41 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:41:09.797+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "61",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732774016700f4026892030064040100",
+    "mic_hex": "1b9253c3",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-136.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.565217",
+    "MeanPER": "0.086673"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:41 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:41:25.898+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "64",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732774016700f0026890030064040100",
+    "mic_hex": "c5e3d490",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-138.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.565217",
+    "MeanPER": "0.086673"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:41 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:41:29.93+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "65",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732775016700f1026890030064040100",
+    "mic_hex": "7a363a79",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC6",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-137.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.576923",
+    "MeanPER": "0.111186"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:41 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:41:33.962+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "66",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732773016700f2026891030064040100",
+    "mic_hex": "6a1c9fb0",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-120.000000",
+    "LrrSNR": "-15.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC10",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-120.000000",
+          "LrrSNR": "-15.750000",
+          "LrrESP": "-135.864044"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.535714",
+    "MeanPER": "0.153520"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:41 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:41:46.059+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "69",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732776016700f2026891030064040100",
+    "mic_hex": "9c38f900",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-120.000000",
+    "LrrSNR": "-16.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC9",
+    "DevLrrCnt": "2",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-120.000000",
+          "LrrSNR": "-16.750000",
+          "LrrESP": "-136.840836"
+        },
+        {
+          "Lrrid": "00002E95",
+          "Chain": "0",
+          "LrrRSSI": "-120.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-138.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.535714",
+    "MeanPER": "0.153520"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:42 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:42:10.253+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "75",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "7",
+    "payload_hex": "00732776016700f1026891030064040100",
+    "mic_hex": "dc7764f2",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC6",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.500000",
+          "LrrESP": "-137.560913"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.594595",
+    "MeanPER": "0.194330"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:42 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:42:22.321+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "77",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "7",
+    "payload_hex": "00732774016700ee02688f030064040100",
+    "mic_hex": "e22215f2",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-120.000000",
+    "LrrSNR": "-17.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC6",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-120.000000",
+          "LrrSNR": "-17.250000",
+          "LrrESP": "-137.331039"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.589744",
+    "MeanPER": "0.214101"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:42 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:42:46.104+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "1",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "0",
+    "payload_hex": "00732775016700f002688f030064040100",
+    "mic_hex": "3940bf60",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-16.000000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-16.000000",
+          "LrrESP": "-133.107742"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:42 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:42:57.393+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "4",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732775016700f202688f030064040100",
+    "mic_hex": "9baa507d",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-137.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:43 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:43:01.425+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "5",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "3",
+    "payload_hex": "00732776016700f3026890030064040100",
+    "mic_hex": "8c395e53",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-135.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.400000",
+    "MeanPER": "0.043750"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:43 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:43:09.49+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "7",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "4",
+    "payload_hex": "00732774016700f102688f030064040100",
+    "mic_hex": "58cc9e07",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-136.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.428571",
+    "MeanPER": "0.062991"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:43 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:43:13.522+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "8",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "5",
+    "payload_hex": "00732775016700f102688f030064040100",
+    "mic_hex": "d485ae4e",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-137.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.375000",
+    "MeanPER": "0.078591"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:43 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:43:17.554+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "9",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732774016700f002688e030064040100",
+    "mic_hex": "75be186b",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-137.301315"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.333333",
+    "MeanPER": "0.091328"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:43 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:43:21.586+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "10",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "7",
+    "payload_hex": "00732775016700f002688e030064040100",
+    "mic_hex": "b267b3e8",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-138.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.300000",
+    "MeanPER": "0.101762"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:43 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:43:25.619+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "11",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732775016700f202688f030064040100",
+    "mic_hex": "d04f4aba",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-136.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.272727",
+    "MeanPER": "0.110310"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:43 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:43:45.78+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "16",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732775016700f002688d030064040100",
+    "mic_hex": "63e764d4",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "2",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-137.301315"
+        },
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-20.500000",
+          "LrrESP": "-138.538544"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.437500",
+    "MeanPER": "0.126670"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:45 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:45:30.618+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "42",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732775016700f202688c030064040100",
+    "mic_hex": "4030774a",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-116.000000",
+    "LrrSNR": "-20.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-116.000000",
+          "LrrSNR": "-20.000000",
+          "LrrESP": "-136.043213"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.761905",
+    "MeanPER": "0.158432"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:46 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:46:06.908+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "51",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "10",
+    "payload_hex": "00732775016700ef02688a030064040100",
+    "mic_hex": "10609ef1",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-21.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-21.000000",
+          "LrrESP": "-138.034363"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.784314",
+    "MeanPER": "0.189726"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:46 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:46:28.133+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "4",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "0",
+    "payload_hex": "00732774016700f002688a030064040100",
+    "mic_hex": "e8703eb6",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-15.750000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-15.750000",
+          "LrrESP": "-133.864044"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:47 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:47:11.679+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "15",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732775016700f002688b030064040100",
+    "mic_hex": "f4fde609",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-116.000000",
+    "LrrSNR": "-20.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-116.000000",
+          "LrrSNR": "-20.250000",
+          "LrrESP": "-136.290802"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:47 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:47:31.84+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "20",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "3",
+    "payload_hex": "00732774016700ed02688a030064040100",
+    "mic_hex": "6afe5a24",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-20.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-20.250000",
+          "LrrESP": "-139.290802"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.823529",
+    "MeanPER": "0.080760"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:47 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:47:47.97+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "24",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "4",
+    "payload_hex": "00732774016700f002688a030064040100",
+    "mic_hex": "453934dd",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-135.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.809524",
+    "MeanPER": "0.117198"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:47 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:47:52.002+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "25",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "4",
+    "payload_hex": "00732774016700f002688a030064040100",
+    "mic_hex": "cb749cc3",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-17.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-17.000000",
+          "LrrESP": "-134.085800"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.809524",
+    "MeanPER": "0.117198"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:48 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:48:00.067+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "27",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732774016700ee026889030064040100",
+    "mic_hex": "f92af229",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.250000",
+          "LrrESP": "-137.314499"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.750000",
+    "MeanPER": "0.179975"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:48 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:48:04.099+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "28",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "7",
+    "payload_hex": "00732775016700ef026889030064040100",
+    "mic_hex": "9a649efe",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-17.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-17.000000",
+          "LrrESP": "-135.085800"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.720000",
+    "MeanPER": "0.206976"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:48 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:48:16.195+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "31",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732774016700f102688a030064040100",
+    "mic_hex": "80832fc0",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-137.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.714286",
+    "MeanPER": "0.232341"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:48 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:48:28.292+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "34",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732775016700ee026888030064040100",
+    "mic_hex": "82ddcbdc",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-115.000000",
+    "LrrSNR": "-17.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-115.000000",
+          "LrrSNR": "-17.500000",
+          "LrrESP": "-132.576553"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.709677",
+    "MeanPER": "0.256208"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:49 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:49:12.646+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "45",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732774016700f0026889030064040100",
+    "mic_hex": "c9be9b4e",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-17.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-17.250000",
+          "LrrESP": "-136.331039"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.761905",
+    "MeanPER": "0.281493"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:49 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:49:48.936+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "54",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "10",
+    "payload_hex": "00732775016700ef026887030064040100",
+    "mic_hex": "a1c93a6c",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-137.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.784314",
+    "MeanPER": "0.306634"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:49 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:49:53.133+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "55",
+    "ADRbit": "1",
+    "ACKbit": "1",
+    "MType": "2",
+    "FCntDn": "11",
+    "payload_hex": "00732774016700ee026886030064040100",
+    "mic_hex": "b05d2628",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-116.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-116.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-135.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.769231",
+    "MeanPER": "0.329764"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:50 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:50:17.131+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "60",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "11",
+    "payload_hex": "00732775016700ee026886030064040100",
+    "mic_hex": "482612fb",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-17.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC6",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-17.750000",
+          "LrrESP": "-136.822296"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.771930",
+    "MeanPER": "0.351872"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:50 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:50:29.231+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "63",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "11",
+    "payload_hex": "00732775016700f1026887030064040100",
+    "mic_hex": "4e27fd46",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-16.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC6",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-16.750000",
+          "LrrESP": "-135.840836"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.766667",
+    "MeanPER": "0.372612"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:50 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:50:41.328+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "66",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "11",
+    "payload_hex": "00732775016700f0026886030064040100",
+    "mic_hex": "31f75eae",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC5",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-137.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.761905",
+    "MeanPER": "0.392077"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:51 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:51:18.395+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "4",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732774016700ee026885030064040100",
+    "mic_hex": "6cd7f045",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-16.000000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-16.000000",
+          "LrrESP": "-135.107742"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:51 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:51:31.544+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "1",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732775016700f0026887030064040100",
+    "mic_hex": "b282d4e4",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-17.250000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-17.250000",
+          "LrrESP": "-135.331039"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:52 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:52:24.922+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "10",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "2",
+    "payload_hex": "00732776016700f1026885030064040100",
+    "mic_hex": "9360c04b",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-17.000000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-17.000000",
+          "LrrESP": "-134.085800"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.800000",
+    "MeanPER": "0.040000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:52 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:52:44.276+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "15",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "3",
+    "payload_hex": "00732775016700ee026884030064040100",
+    "mic_hex": "9a10bc46",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-20.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-20.000000",
+          "LrrESP": "-137.043213"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.800000",
+    "MeanPER": "0.078000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:56 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:56:22.017+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "69",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "0",
+    "payload_hex": "00732776016700ee026881030064040100",
+    "mic_hex": "3d4c5677",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-138.301315"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 3:59 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T15:59:41.874+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "18",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732777016700eb02687e030064040100",
+    "mic_hex": "cd473b28",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-13.250000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-13.250000",
+          "LrrESP": "-130.450775"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:00 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:00:39.519+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "32",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "2",
+    "payload_hex": "00732776016700e702687d030064040100",
+    "mic_hex": "fc4ad895",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-137.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.866667",
+    "MeanPER": "0.043333"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:01 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:01:14.813+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "1",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732778016700eb02687e030064040100",
+    "mic_hex": "988f0264",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-17.250000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-17.250000",
+          "LrrESP": "-134.331039"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:01 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:01:24.071+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "3",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732776016700eb02687e030064040100",
+    "mic_hex": "5b34b722",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-138.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:01 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:01:40.2+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "7",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "3",
+    "payload_hex": "00732777016700e902687d030064040100",
+    "mic_hex": "3ccf7c5f",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-20.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-20.250000",
+          "LrrESP": "-137.290802"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.571429",
+    "MeanPER": "0.044405"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:01 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:01:48.264+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "9",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "4",
+    "payload_hex": "00732777016700ec02687e030064040100",
+    "mic_hex": "d9644dfc",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-137.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.555556",
+    "MeanPER": "0.069963"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:01 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:01:56.329+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "11",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "5",
+    "payload_hex": "00732777016700ea02687d030064040100",
+    "mic_hex": "efe722ce",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-17.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-17.750000",
+          "LrrESP": "-135.822296"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.545455",
+    "MeanPER": "0.093738"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:00.361+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "12",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732778016700e902687d030064040100",
+    "mic_hex": "81dda1c4",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-137.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.500000",
+    "MeanPER": "0.114051"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:04.393+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "13",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "7",
+    "payload_hex": "00732777016700e802687c030064040100",
+    "mic_hex": "f9500f46",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-135.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.461538",
+    "MeanPER": "0.131425"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:08.425+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "14",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732776016700ea02687d030064040100",
+    "mic_hex": "60d0b051",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-137.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.428571",
+    "MeanPER": "0.146282"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:12.458+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "15",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732777016700ec02687e030064040100",
+    "mic_hex": "b6497614",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-17.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-17.750000",
+          "LrrESP": "-135.822296"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.428571",
+    "MeanPER": "0.146282"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:20.522+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "17",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732777016700ec02687d030064040100",
+    "mic_hex": "3a5ed91a",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.500000",
+          "LrrESP": "-137.560913"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.411765",
+    "MeanPER": "0.171608"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:24.554+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "18",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732776016700eb02687d030064040100",
+    "mic_hex": "9e2f3cfc",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-18.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-18.250000",
+          "LrrESP": "-135.314499"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.388889",
+    "MeanPER": "0.182472"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:32.619+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "20",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732777016700e702687c030064040100",
+    "mic_hex": "2582658f",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-138.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.400000",
+    "MeanPER": "0.193348"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:36.651+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "21",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732777016700ea02687d030064040100",
+    "mic_hex": "58a08ff2",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-18.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-18.500000",
+          "LrrESP": "-136.560913"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.380952",
+    "MeanPER": "0.202728"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:02 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:02:44.715+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "23",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732776016700ec02687d030064040100",
+    "mic_hex": "d7a0d40a",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-20.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-20.000000",
+          "LrrESP": "-137.043213"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.380952",
+    "MeanPER": "0.202728"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:03 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:03:57.294+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "41",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "11",
+    "payload_hex": "00732778016700e602687c030064040100",
+    "mic_hex": "3862408a",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-136.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.634146",
+    "MeanPER": "0.233256"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:01.326+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "42",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "12",
+    "payload_hex": "00732776016700e802687c030064040100",
+    "mic_hex": "26e40743",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-136.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.619048",
+    "MeanPER": "0.252546"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:05.359+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "43",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "12",
+    "payload_hex": "00732776016700ea02687d030064040100",
+    "mic_hex": "8b3ea08a",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-137.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.604651",
+    "MeanPER": "0.270151"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:09.391+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "44",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "14",
+    "payload_hex": "00732777016700ea02687d030064040100",
+    "mic_hex": "4de1ec1f",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-138.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.590909",
+    "MeanPER": "0.286189"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:17.455+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "46",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "15",
+    "payload_hex": "00732777016700e802687c030064040100",
+    "mic_hex": "cf549229",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-137.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.586957",
+    "MeanPER": "0.301227"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:21.488+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "47",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "15",
+    "payload_hex": "00732777016700e402687b030064040100",
+    "mic_hex": "247e45c2",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-116.000000",
+    "LrrSNR": "-19.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-116.000000",
+          "LrrSNR": "-19.750000",
+          "LrrESP": "-135.795761"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.586957",
+    "MeanPER": "0.301227"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:25.52+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "48",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "16",
+    "payload_hex": "00732777016700e502687b030064040100",
+    "mic_hex": "81d8316b",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-135.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.562500",
+    "MeanPER": "0.327270"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:33.584+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "50",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "16",
+    "payload_hex": "00732777016700e902687d030064040100",
+    "mic_hex": "d061640e",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-17.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-17.500000",
+          "LrrESP": "-134.576553"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.560000",
+    "MeanPER": "0.338907"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:37.616+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "51",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "16",
+    "payload_hex": "00732776016700ea02687d030064040100",
+    "mic_hex": "050b781f",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-17.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-17.250000",
+          "LrrESP": "-135.331039"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.549020",
+    "MeanPER": "0.349413"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:45.681+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "53",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "17",
+    "payload_hex": "00732776016700e702687c030064040100",
+    "mic_hex": "6d159224",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-15.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-15.750000",
+          "LrrESP": "-134.864044"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.547170",
+    "MeanPER": "0.359301"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:49.713+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "54",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "18",
+    "payload_hex": "00732777016700e502687b030064040100",
+    "mic_hex": "fe10e8b2",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-16.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-16.000000",
+          "LrrESP": "-135.107742"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.537037",
+    "MeanPER": "0.368188"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:04 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:04:53.746+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "55",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "18",
+    "payload_hex": "00732777016700e502687b030064040100",
+    "mic_hex": "be259d34",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-15.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-15.250000",
+          "LrrESP": "-134.377762"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.537037",
+    "MeanPER": "0.368188"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:05 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:05:01.811+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "57",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "20",
+    "payload_hex": "00732777016700e802687c030064040100",
+    "mic_hex": "6508b083",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-136.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.526316",
+    "MeanPER": "0.383651"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:05 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:05:17.94+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "61",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "20",
+    "payload_hex": "00732777016700e502687b030064040100",
+    "mic_hex": "1f5f6300",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-17.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-17.000000",
+          "LrrESP": "-134.085800"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.526316",
+    "MeanPER": "0.383651"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:05 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:05:26.004+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "63",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "21",
+    "payload_hex": "00732777016700e702687c030064040100",
+    "mic_hex": "a3b6e811",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-116.000000",
+    "LrrSNR": "-16.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-116.000000",
+          "LrrSNR": "-16.500000",
+          "LrrESP": "-132.596161"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.539683",
+    "MeanPER": "0.398926"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:05 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:05:30.036+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "64",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "23",
+    "payload_hex": "00732778016700e902687c030064040100",
+    "mic_hex": "3747fdd7",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-17.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-17.000000",
+          "LrrESP": "-136.085800"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.531250",
+    "MeanPER": "0.405542"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:05 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:05:34.068+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "65",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "24",
+    "payload_hex": "00732777016700e902687c030064040100",
+    "mic_hex": "6a2b4577",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-136.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.523077",
+    "MeanPER": "0.411419"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:06 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:06:02.294+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "72",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "25",
+    "payload_hex": "00732777016700e902687c030064040100",
+    "mic_hex": "2c57e897",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-116.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-116.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-134.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.555556",
+    "MeanPER": "0.418626"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:06 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:06:22.455+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "77",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "26",
+    "payload_hex": "00732777016700e702687e030064040100",
+    "mic_hex": "a50b9443",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-111.000000",
+    "LrrSNR": "-15.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-111.000000",
+          "LrrSNR": "-15.000000",
+          "LrrESP": "-126.135208"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.571429",
+    "MeanPER": "0.426266"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:06 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:06:34.552+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "80",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "27",
+    "payload_hex": "00732778016700e8026880030064040100",
+    "mic_hex": "dbba95b5",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-16.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-16.250000",
+          "LrrESP": "-134.351791"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.575000",
+    "MeanPER": "0.433703"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:06 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:06:50.68+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "84",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "28",
+    "payload_hex": "00732777016700e9026880030064040100",
+    "mic_hex": "32a1d76a",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.750000",
+          "LrrESP": "-138.795761"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.583333",
+    "MeanPER": "0.441185"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:07 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:07:26.971+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "93",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "29",
+    "payload_hex": "00732778016700e902687e030064040100",
+    "mic_hex": "79794d5a",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.250000",
+          "LrrESP": "-137.314499"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.612903",
+    "MeanPER": "0.449771"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:07 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:07:31.004+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "94",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "29",
+    "payload_hex": "00732778016700e602687e030064040100",
+    "mic_hex": "0f48fe32",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-137.301315"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.612903",
+    "MeanPER": "0.449771"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:07 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:07:47.132+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "98",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "31",
+    "payload_hex": "00732777016700e502687c030064040100",
+    "mic_hex": "4b61dd49",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-136.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.612245",
+    "MeanPER": "0.465334"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:07 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:07:55.197+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "100",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "31",
+    "payload_hex": "00732777016700e602687d030064040100",
+    "mic_hex": "e4a2c149",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-138.301315"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.610000",
+    "MeanPER": "0.472567"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:07 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:07:59.229+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "101",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "32",
+    "payload_hex": "00732777016700e502687c030064040100",
+    "mic_hex": "722d6c1e",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-138.301315"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.603960",
+    "MeanPER": "0.479137"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:08 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:08:07.294+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "103",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "33",
+    "payload_hex": "00732779016700e202687b030064040100",
+    "mic_hex": "c8ce06db",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-20.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-20.500000",
+          "LrrESP": "-139.538544"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.601942",
+    "MeanPER": "0.485277"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:11 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:11:53.623+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "34",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732778016700da026878030064040100",
+    "mic_hex": "52e21c40",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-16.250000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-16.250000",
+          "LrrESP": "-133.351791"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:12 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:12:12.977+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "39",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "2",
+    "payload_hex": "00732778016700da026878030064040100",
+    "mic_hex": "2f5b4156",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.750000",
+          "LrrESP": "-137.795761"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.666667",
+    "MeanPER": "0.033333"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:12 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:12:29.105+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "43",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "3",
+    "payload_hex": "00732777016700da026878030064040100",
+    "mic_hex": "4e143a12",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-20.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-20.250000",
+          "LrrESP": "-138.290802"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.700000",
+    "MeanPER": "0.066666"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:12 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:12:37.17+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "45",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "4",
+    "payload_hex": "00732777016700db026878030064040100",
+    "mic_hex": "59417582",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-138.301315"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.666667",
+    "MeanPER": "0.096666"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:12 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:12:41.202+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "46",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "5",
+    "payload_hex": "00732777016700da026878030064040100",
+    "mic_hex": "0bec9532",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-136.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.615385",
+    "MeanPER": "0.122602"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:12 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:12:45.234+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "47",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "6",
+    "payload_hex": "00732777016700da026877030064040100",
+    "mic_hex": "30cf3e4d",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-137.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.571429",
+    "MeanPER": "0.145043"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:12 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:12:57.331+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "50",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "7",
+    "payload_hex": "00732778016700da026877030064040100",
+    "mic_hex": "76870c9c",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.250000",
+          "LrrESP": "-137.314499"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.588235",
+    "MeanPER": "0.167203"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:13 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:13:05.395+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "52",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732778016700db026878030064040100",
+    "mic_hex": "628568c0",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-137.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.578947",
+    "MeanPER": "0.187790"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:13 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:13:13.46+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "54",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "8",
+    "payload_hex": "00732777016700d9026877030064040100",
+    "mic_hex": "29533fdd",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-138.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.571429",
+    "MeanPER": "0.206972"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:13 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:13:33.621+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "59",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732777016700db026877030064040100",
+    "mic_hex": "379b82c8",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-17.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-17.500000",
+          "LrrESP": "-136.576553"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.615385",
+    "MeanPER": "0.227393"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:13 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:13:37.817+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "60",
+    "ADRbit": "1",
+    "ACKbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732777016700d9026877030064040100",
+    "mic_hex": "2633bd2a",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-137.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.592593",
+    "MeanPER": "0.245653"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:13 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:13:41.685+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "61",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732778016700d9026876030064040100",
+    "mic_hex": "0f6bf2e5",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-137.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.571429",
+    "MeanPER": "0.261942"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:13 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:13:45.718+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "62",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732778016700d7026876030064040100",
+    "mic_hex": "8c8494bf",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-137.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.551724",
+    "MeanPER": "0.276431"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:13 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:13:57.814+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "65",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "9",
+    "payload_hex": "00732777016700da026877030064040100",
+    "mic_hex": "e859b13f",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-136.301315"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.551724",
+    "MeanPER": "0.276431"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:14 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:14:21.979+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "70",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "10",
+    "payload_hex": "00732776016700d8026875030064040100",
+    "mic_hex": "adff67c5",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-19.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-19.500000",
+          "LrrESP": "-136.548462"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.594595",
+    "MeanPER": "0.305927"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:14 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:14:54.239+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "78",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "10",
+    "payload_hex": "00732776016700dc026877030064040100",
+    "mic_hex": "a5a76b11",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-20.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC6",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-20.000000",
+          "LrrESP": "-138.043213"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.644444",
+    "MeanPER": "0.322853"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:15 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:15:42.628+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "90",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "10",
+    "payload_hex": "00732777016700d8026874030064040100",
+    "mic_hex": "43b78728",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-19.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-19.250000",
+          "LrrESP": "-137.301315"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.644444",
+    "MeanPER": "0.322853"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:37 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:37:21.198+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "91",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "12",
+    "payload_hex": "00732778016700ed026861030064040100",
+    "mic_hex": "8881c8c3",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-16.000000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-16.000000",
+          "LrrESP": "-134.107742"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.689655",
+    "MeanPER": "0.359191"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:37 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:37:46.585+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "97",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "12",
+    "payload_hex": "00732778016700ec026860030064040100",
+    "mic_hex": "1643ea66",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-17.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-17.000000",
+          "LrrESP": "-136.085800"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.703125",
+    "MeanPER": "0.376388"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:37 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:37:50.617+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "98",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "12",
+    "payload_hex": "00732778016700ec026860030064040100",
+    "mic_hex": "83c688d2",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-136.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.692308",
+    "MeanPER": "0.392184"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:37 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:37:54.65+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "99",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "12",
+    "payload_hex": "00732779016700ed026861030064040100",
+    "mic_hex": "59bd2562",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-137.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.681818",
+    "MeanPER": "0.406666"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:37 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:37:58.682+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "100",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "12",
+    "payload_hex": "00732777016700ed026861030064040100",
+    "mic_hex": "737476e4",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.250000",
+          "LrrESP": "-137.314499"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.681818",
+    "MeanPER": "0.406666"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:38 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:38:06.746+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "102",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "13",
+    "payload_hex": "00732778016700ec026860030064040100",
+    "mic_hex": "9b3f256c",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-116.000000",
+    "LrrSNR": "-17.500000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-116.000000",
+          "LrrSNR": "-17.500000",
+          "LrrESP": "-133.576553"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.666667",
+    "MeanPER": "0.432253"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:38 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:38:26.879+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "106",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "13",
+    "payload_hex": "00732779016700ed026860030064040100",
+    "mic_hex": "bf70106f",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.750000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC5",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.750000",
+          "LrrESP": "-137.807526"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.671233",
+    "MeanPER": "0.444202"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:38 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:38:47.04+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "111",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "13",
+    "payload_hex": "00732778016700ed026860030064040100",
+    "mic_hex": "2a0496dc",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-118.000000",
+    "LrrSNR": "-13.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC6",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002E48",
+    "Late": "0",
+    "LrrLAT": "13.796507",
+    "LrrLON": "100.566666",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002E48",
+          "Chain": "0",
+          "LrrRSSI": "-118.000000",
+          "LrrSNR": "-13.250000",
+          "LrrESP": "-131.450775"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.679487",
+    "MeanPER": "0.455966"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:38 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:38:51.072+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "112",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "13",
+    "payload_hex": "00732778016700ed026860030064040100",
+    "mic_hex": "c6e75919",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-12.250000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-12.250000",
+          "LrrESP": "-131.501282"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.670886",
+    "MeanPER": "0.466712"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:45 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:45:37.542+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "69",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732778016700eb02685c030064040100",
+    "mic_hex": "d7721678",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-117.000000",
+    "LrrSNR": "-16.250000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-117.000000",
+          "LrrSNR": "-16.250000",
+          "LrrESP": "-133.351791"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 4:48 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T16:48:08.188+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "29",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "1",
+    "payload_hex": "00732779016700eb02685a030064040100",
+    "mic_hex": "5f5c02ad",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-16.500000",
+    "SpFact": "10",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-16.500000",
+          "LrrESP": "-135.596161"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.000000",
+    "MeanPER": "0.000000"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 5:07 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T17:07:48.635+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "98",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "2",
+    "payload_hex": "00732779016700e7026857030064040100",
+    "mic_hex": "1e5906f9",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-18.000000",
+    "SpFact": "11",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-18.000000",
+          "LrrESP": "-137.068298"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.971429",
+    "MeanPER": "0.048571"
+  }
+}
+POST / from ::ffff:122.155.223.61 at Monday, November 19, 2018 5:25 PM
+{
+  "DevEUI_uplink": {
+    "Time": "2018-11-19T17:25:44.858+07:00",
+    "DevEUI": "AA00DBCA12EF1102",
+    "DevAddr": "12EF1102",
+    "FPort": "99",
+    "FCntUp": "142",
+    "ADRbit": "1",
+    "MType": "2",
+    "FCntDn": "2",
+    "payload_hex": "0073277b016700f102685f030064040100",
+    "mic_hex": "225aa08b",
+    "Lrcid": "00000231",
+    "LrrRSSI": "-119.000000",
+    "LrrSNR": "-19.000000",
+    "SpFact": "12",
+    "SubBand": "G1",
+    "Channel": "LC2",
+    "DevLrrCnt": "1",
+    "Lrrid": "00002EE6",
+    "Late": "0",
+    "LrrLAT": "13.810573",
+    "LrrLON": "100.591789",
+    "Lrrs": {
+      "Lrr": [
+        {
+          "Lrrid": "00002EE6",
+          "Chain": "0",
+          "LrrRSSI": "-119.000000",
+          "LrrSNR": "-19.000000",
+          "LrrESP": "-138.054337"
+        }
+      ]
+    },
+    "CustomerID": "1100003228",
+    "CustomerData": {
+      "alr": {
+        "pro": "LORA/Generic",
+        "ver": "1"
+      }
+    },
+    "ModelCfg": "0",
+    "InstantPER": "0.971429",
+    "MeanPER": "0.048571"
+  }
+}
